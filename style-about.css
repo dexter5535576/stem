@@ -113,7 +113,7 @@
 	animation-delay:0.5s;
 }
 body {
-	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('https://00e9e64bacfbae6e436b4a4b565fb78ab40a9c07f474143478-apidata.googleusercontent.com/download/storage/v1/b/stemclubccsf/o/ccsf.jpg?qk=AD5uMEvQz_c3tbug9_ufzVX79sZBODgJRTbYvcIZ-MuDJqnP6EYJiRwrr3OA6hwb1C2r9BA0ZCD6pFZ5MkuqpF0XKuTaaqLsQcunKuJyV9TQeC0eAwJFRdSwwQrCnxxD1bFYPMqljDBETclVQ3lSNb4kleEdUM3_iadme3hj0Z8tVFv6iFl-IOvtp9HXNXI28MIr-g171cZzXOd_EFxLgj-B62sqmnc_Jd6kbu-t_5gYTkizfKAVmmD3cvp9xpK35Ogown01zgErGDlO86CiWYJmSEDk2UN3JHb1UDjDNZnWOXfCThZ_T9WjXd2Pn8s81pgtJj0qDWNr7R0VQWIEyBTYlV3P47zNZ1gxbsCjqoeDA_NE7qwCEK2exOtrn0V_S14OBVherPhP2t1uM1os76_r5CFA74W7N8lmpwh_dozdOXIQQezJccIJQ534iA_LGaQlSy_CJpmAY89c4f5D-Jc0YR7m7tCTGmDRcbkz2d8Kd7Tg_ELTvG9CFZNCpWmdfRx99Qej9hJsrj4ln_fUen-WxyJzoMIpd1eMKR_b393pdq-2E0osTbMFQ-dBxgZsyBMcBGVQvC404h_EhtrUNjqD6JWu4Cm7NtfKgbV9zuYhVDSu3PX9M-daLM3FFxoao74xr9OFgP7cfSxKBhz2dsc3L9rO0COo_bLiyBbHzltrqXyxdohv3_H7XN3X7qsD9yC2M8lu4K1cdvX6Fo65p-aiHkKq-PZOrMfjxvE_oC7_2ZAHNpBbs-g'), no-repeat center center fixed;
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('ccsf.jpg'), no-repeat center center fixed;
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
