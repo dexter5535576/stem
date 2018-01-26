@@ -124,8 +124,7 @@ body {
 	border-color:rgba(128, 128, 166,1);
 }
 body, html {
-	height:200%;
-
+	height:300%;
 }
 #bottom-text {
 	background: -webkit-linear-gradient(150deg, 
