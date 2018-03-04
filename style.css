@@ -135,6 +135,10 @@ body, html {
 	bottom:1%;
 	animation-delay:2.5s;
 }
+#rules {
+	color:white;
+	font-size:200%;
+}
 
 /* Grow */
 .hvr-grow {
